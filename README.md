@@ -51,4 +51,4 @@
 
 - 📈 Trabalho numa rede de varejo alimentício como analista de consumer insight
 - 🌱 Constante evolução no conhecimento sobre ciência de dados.
-- ⚡ Curiosidade: futebol, musculação e dados é uma paixão.
+- ⚡ Curiosidades: futebol, musculação e dados é uma paixão.
