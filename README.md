@@ -48,7 +48,7 @@
 <br/>
 
 
-
+- 💻Dê uma olhada em meu portfólio: https://brunoclf19.wixsite.com/my-site-1
 - 📈 Trabalho numa rede de varejo alimentício como analista de consumer insight
 - 🌱 Constante evolução no conhecimento sobre ciência de dados.
 - ⚡ Curiosidades: futebol, musculação e dados é uma paixão.
